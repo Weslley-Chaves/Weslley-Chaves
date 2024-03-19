@@ -1,8 +1,8 @@
-### Olá, este é o meu perfil do Github. Seja bem-vindo! 👋
-###  🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. Iniciando no mundo da programação 👨🏻‍💻
+### 👋 Olá, este é o meu perfil do Github. Seja bem-vindo! 
+### 🔭 Estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. Iniciando no mundo da programação 👨🏻‍💻
 ### 🌱 Aprendendo Python, Banco de dados, Arquitetura de Redes, Git e Git Hub!
 ### 💬 Pergunte-me sobre o Brasil e vou te contar a melhor parte do meu país (dica: começa com B e termina com H).
-### ⚡ Curiosidade: Brincando no inglês para facilitar a minha vida no mundo da programção :D
+### ⚡ Curiosidade: Brincando no inglês para facilitar a minha vida no mundo da programação :D
 ### 📫 Meus contatos: 
 ### www.linkedin.com/in/weslley-santos-789890228
 ### weslleysantoschaves@gmail.com
