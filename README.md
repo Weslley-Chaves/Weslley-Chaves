@@ -1,24 +1,38 @@
-### 👋 Olá, este é o meu perfil do Github. Seja bem-vindo! 
-### 🔭 Estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. Iniciando no mundo da programação 👨🏻‍💻
-### 🌱 Aprendendo Python, Banco de dados, Arquitetura de Redes, Git e Git Hub!
-### 💬 Pergunte-me sobre o Brasil e vou te contar a melhor parte do meu país (dica: começa com B e termina com H).
-### ⚡ Curiosidade: Brincando no inglês para facilitar a minha vida no mundo da programação :D
-### 📫 Meus contatos: 
-### www.linkedin.com/in/weslley-santos-789890228
-### weslleysantoschaves@gmail.com
-### https://www.instagram.com/weslley_ch4ves
+# Weslley S. Chaves
 
-<!--
-**Weslley-Chaves/Weslley-Chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Weslley%20Santos-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-santos-789890228)](https://www.linkedin.com/in/weslley-santos-789890228) 
+[![Gmail Badge](https://img.shields.io/badge/-weslleysantoschaves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weslleysantoschaves@gmail.com)](mailto:weslleysantoschaves@gmail.com) 
+[![GitHub Badge](https://img.shields.io/badge/-Weslley%20Chaves-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Weslley-Chaves)](https://github.com/Weslley-Chaves) 
 
-Here are some ideas to get you started:
+## 👋 Olá, este é o meu perfil do Github. Seja bem-vindo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="background-color: #333; color: white; padding: 15px; border-radius: 10px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
+  Iniciando no mundo da programação 👨🏻‍💻
+  Aprendendo Python, Banco de dados, Arquitetura de Redes, Git e Git Hub!
+</div>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Procuro uma vaga de estágio na área de Tecnologia da Informação para aplicar meus conhecimentos acadêmicos, desenvolver habilidades práticas e contribuir para projetos inovadores. Estou em transição de carreira e busco oportunidades no setor de tecnologia para utilizar minha experiência e paixão pela área, agregando valor à equipe e à empresa.
+
+---
+
+## 📚 Formação Acadêmica
+  
+- **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Cursando)**
+  - Universidade Norte do Paraná (UNOPAR) - Belo Horizonte/MG
+  - 2023 - 2025
+  
+---
+
+## 🛠️ Habilidades
+
+- **Linguagens de Programação:** Python (básico)
+- **Sistemas Operacionais e Banco de Dados:** Conhecimentos introdutórios
+- **Redes:** Configuração básica e Protocolos
+
+---
+
+![Design sem nome (1)-Photoroom](https://github.com/user-attachments/assets/149a1cde-1f5c-44cd-9500-f969577b1d1c)
