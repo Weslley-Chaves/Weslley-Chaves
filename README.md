@@ -4,11 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-weslleysantoschaves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weslleysantoschaves@gmail.com)](mailto:weslleysantoschaves@gmail.com) 
 [![GitHub Badge](https://img.shields.io/badge/-Weslley%20Chaves-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Weslley-Chaves)](https://github.com/Weslley-Chaves) 
 
-## 👋 Olá, este é o meu perfil do Github. Seja bem-vindo!
+## 👋 Olá, este é o meu perfil do GitHub. Seja bem-vindo!
 
 <div style="background-color: #333; color: white; padding: 15px; border-radius: 10px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
-  Iniciando no mundo da programação 👨🏻‍💻
-  Aprendendo Python, Banco de dados, Arquitetura de Redes, Git e Git Hub!
+   Iniciando no mundo da programação 👨🏻‍💻 Aprendendo Python, Banco de dados, Arquitetura de Redes, Git e GitHub!
 </div>
 
 ---
