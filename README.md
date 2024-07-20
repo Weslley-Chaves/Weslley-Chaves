@@ -24,14 +24,6 @@ Procuro uma vaga de estágio na área de Tecnologia da Informação para aplicar
 - **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Cursando)**
   - Universidade Norte do Paraná (UNOPAR) - Belo Horizonte/MG
   - 2023 - 2025
-  
----
-
-## 🛠️ Habilidades
-
-- **Linguagens de Programação:** Python (básico)
-- **Sistemas Operacionais e Banco de Dados:** Conhecimentos introdutórios
-- **Redes:** Configuração básica e Protocolos
 
 ---
 
