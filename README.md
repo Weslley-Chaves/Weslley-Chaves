@@ -1,8 +1,8 @@
 # Weslley S. Chaves
 
-[![Linkedin Badge](https://img.shields.io/badge/-Weslley%20Santos-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-s-chaves-789890228)](https://www.linkedin.com/in/weslley-s-chaves-789890228)
+[![Linkedin Badge](https://img.shields.io/badge/-Weslley%20S.%20Chaves-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-s-chaves-789890228)](https://www.linkedin.com/in/weslley-s-chaves-789890228)
 [![Gmail Badge](https://img.shields.io/badge/-weslleysantoschaves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weslleysantoschaves@gmail.com)](mailto:weslleysantoschaves@gmail.com) 
-[![GitHub Badge](https://img.shields.io/badge/-Weslley%20Chaves-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Weslley-Chaves)](https://github.com/Weslley-Chaves) 
+[![GitHub Badge](https://img.shields.io/badge/-Weslley%20S.%20Chaves-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Weslley-Chaves)](https://github.com/Weslley-Chaves) 
 
 ## 👋 Olá, este é o meu perfil do GitHub. Seja bem-vindo!
 
