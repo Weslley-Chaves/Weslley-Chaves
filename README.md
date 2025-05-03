@@ -14,7 +14,7 @@
 
 ## 🎯 Objetivo Profissional
 
-Procuro uma vaga de estágio na área de Tecnologia da Informação para aplicar meus conhecimentos acadêmicos, desenvolver habilidades práticas e contribuir para projetos inovadores. Estou em transição de carreira e busco oportunidades no setor de tecnologia para utilizar minha experiência e paixão pela área, agregando valor à equipe e à empresa.
+Atualmente atuo como Estagiário em Análise de Requisitos na 4mti, aplicando meus conhecimentos acadêmicos e desenvolvendo habilidades práticas em projetos inovadores. Estou aprimorando minhas habilidades no desenvolvimento de software, motivado pela minha paixão por tecnologia e aprendizado contínuo. Quero expandir minha experiência e agregar valor à equipe e à empresa por meio de soluções criativas e eficientes.
 
 ---
 
