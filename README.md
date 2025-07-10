@@ -7,20 +7,25 @@
 ## 👋 Olá, este é o meu perfil do GitHub. Seja bem-vindo!
 
 <div style="background-color: #333; color: white; padding: 15px; border-radius: 10px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
-   Iniciando no mundo da programação 👨🏻‍💻 Aprendendo Python, Banco de dados, Arquitetura de Redes, Git e GitHub!
+   💡 Estudando programação e ciência de dados na prática, com foco total no aprendizado!  
+   👨🏻‍💻 Aprendendo Python, SQL, Desenvolvimento Web, Git/GitHub, Ciência de Dados e muito mais!
 </div>
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atualmente atuo como Estagiário em Análise de Requisitos na 4mti, aplicando meus conhecimentos acadêmicos e desenvolvendo habilidades práticas em projetos inovadores. Estou aprimorando minhas habilidades no desenvolvimento de software, motivado pela minha paixão por tecnologia e aprendizado contínuo. Quero expandir minha experiência e agregar valor à equipe e à empresa por meio de soluções criativas e eficientes.
+Atualmente focado em transição para a área de **Desenvolvimento** ou **Ciência de Dados**, estou me dedicando em tempo integral aos estudos para atuar como **Desenvolvedor Python** ou **Cientista de Dados Júnior**.
+
+Tenho experiência anterior com **Análise de Requisitos**, Git/GitHub, e estou em constante evolução com projetos práticos e estudos aplicados.
+
+Busco minha primeira oportunidade formal como dev ou analista de dados, agregando com criatividade, responsabilidade e desejo de aprender.
 
 ---
 
 ## 📚 Formação Acadêmica
   
-- **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Cursando)**
+- **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Concluído)**
   - Universidade Norte do Paraná (UNOPAR) - Belo Horizonte/MG
   - 2023 - 2025
 
