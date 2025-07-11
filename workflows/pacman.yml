@@ -1,0 +1,28 @@
+name: Generate Pac-Man Game
+
+on:
+  schedule:          # roda 1 vez por dia
+    - cron: '0 */24 * * *'
+  workflow_dispatch: # permite rodar manualmente
+  push:              # atualiza a cada push na branch main
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push pacman-contribution-graph.svg to output branch
+        uses: crazy-max/[email protected]
+        with:
+          target_branch: output   # branch onde o SVG é salvo
+          build_dir: dist         # pasta gerada pela Action
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
