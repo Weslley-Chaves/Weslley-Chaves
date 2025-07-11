@@ -1,30 +1,23 @@
+# ← deveria estar assim (várias linhas, recuos com 2 espaços)
 name: Generate Pac-Man Game
-
 on:
   schedule:
-    - cron: '0 0 * * *'      # roda 1 vez por dia à 00:00 UTC
-  workflow_dispatch:          # botão “Run workflow”
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
-    branches: [main]          # dispara a cada push na main
-
-permissions:
-  contents: write             # permite dar push na branch 'output'
-
+    branches: [main]
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4   # garante cópia do repo
-
-      - name: Generate SVGs
-        uses: abozanona/pacman-contribution-graph@v1
+      - name: Generate SVG
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
-      - name: Publish on branch 'output'
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish on branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
