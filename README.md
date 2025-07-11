@@ -50,7 +50,7 @@ Um lugar onde eu possa transformar **dados em insights**, **ideias em aplicaçõ
 
 ## 📚 Minha Formação
 
-* **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** – UNOPAR, 2023‑2025 *(conclusão prevista dez/2025)*
+* **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** – UNOPAR, 2023‑2025 *(concluído)*
 
 ---
 
