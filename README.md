@@ -7,13 +7,13 @@
 
 ---
 
-## 👋 Quem sou eu
+## 👋 E aí, dev! Bem-vindo(a) ao meu GitHub — role para baixo e conheça um pouco mais da minha jornada no mundo tech. 👨🏻‍💻
 
-🚀 **Recém‑formado em ADS**, movido por **aprendizado contínuo**. Todos os dias evoluindo um pouquinho em **Python, SQL, Desenvolvimento Web e Data Science** — cafezinho na mão, código na tela e curiosidade sempre ligada. 😎
+🚀 **Sou recém‑formado em ADS**, movido por **aprendizado contínuo**. Todos os dias evoluindo um pouquinho em **Python, SQL, Desenvolvimento Web e Data Science** — cafezinho na mão, código na tela e curiosidade sempre ligada. 💡
 
 ---
 
-## 🛠️ Stack que estou hackeando no momento
+## 🛠️ Stacks que estou estudando no momento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -48,13 +48,13 @@ Um lugar onde eu possa transformar **dados em insights**, **ideias em aplicaçõ
 
 ---
 
-## 📚 Formação
+## 📚 Minha Formação
 
 * **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** – UNOPAR, 2023‑2025 *(conclusão prevista dez/2025)*
 
 ---
 
-## 🎮 Pac‑Man Commit Game
+## 🎮 Minhas contribuições - Pac‑Man Commit Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Weslley-Chaves/Weslley-Chaves/output/pacman-contribution-graph-dark.svg" />
@@ -67,4 +67,6 @@ Um lugar onde eu possa transformar **dados em insights**, **ideias em aplicaçõ
 ---
 
 <p align="center">Feito com 💻 e ☕ por <strong>Weslley S. Chaves</strong></p>
+<p align="center"><em>Nunca se esqueça: "A melhor maneira de prever o futuro é criá-lo."</em></p>
+<p align="center">Valeu pela visita! Siga codando, siga curioso. Qualquer coisa, me chama no LinkedIn e bora compartilhar conhecimento. 🆙</p>
 
