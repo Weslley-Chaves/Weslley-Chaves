@@ -1,72 +1,217 @@
-# Weslley S. Chaves
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Weslley%20S.%20Chaves-0073b1?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/weslley-s-chaves-789890228)
-[![Gmail Badge](https://img.shields.io/badge/-weslleysantoschaves@gmail.com-c14438?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:weslleysantoschaves@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-Weslley%20S.%20Chaves-000000?style=flat-square\&logo=Github\&logoColor=white)](https://github.com/Weslley-Chaves)
-[![Visitors](https://komarev.com/ghpvc/?username=Weslley-Chaves\&style=flat-square)](https://github.com/Weslley-Chaves)
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=48&pause=900&center=true&vCenter=true&width=1200&height=80&color=F7F7F7&repeat=false&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil+do+GitHub+%F0%9F%91%8B" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=48&pause=900&center=true&vCenter=true&width=1200&height=80&color=111827&repeat=false&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil+do+GitHub+%F0%9F%91%8B" />
+    <img alt="Boas-vindas"
+      src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=48&pause=900&center=true&vCenter=true&width=1200&height=80&color=111827&repeat=false&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil+do+GitHub+%F0%9F%91%8B" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=34&pause=900&center=true&vCenter=true&width=900&height=60&color=F7F7F7&repeat=false&lines=Meu+nome+%C3%A9" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=34&pause=900&center=true&vCenter=true&width=900&height=60&color=111827&repeat=false&lines=Meu+nome+%C3%A9" />
+    <img alt="Meu nome é"
+      src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=34&pause=900&center=true&vCenter=true&width=900&height=60&color=111827&repeat=false&lines=Meu+nome+%C3%A9" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=110&pause=3500&center=true&vCenter=true&width=1600&height=200&color=F7F7F7&repeat=false&lines=WESLLEY+CHAVES" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=110&pause=3500&center=true&vCenter=true&width=1600&height=200&color=111827&repeat=false&lines=WESLLEY+CHAVES" />
+    <img alt="Weslley Chaves"
+      src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=110&pause=3500&center=true&vCenter=true&width=1600&height=200&color=111827&repeat=false&lines=WESLLEY+CHAVES" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=34&pause=900&center=true&vCenter=true&width=900&height=60&color=F7F7F7&repeat=false&lines=Sou+um" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=34&pause=900&center=true&vCenter=true&width=900&height=60&color=111827&repeat=false&lines=Sou+um" />
+    <img alt="Sou um"
+      src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=34&pause=900&center=true&vCenter=true&width=900&height=60&color=111827&repeat=false&lines=Sou+um" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=BBH+Bogle&size=56&pause=1200&center=true&vCenter=true&width=1200&height=70&color=F7F7F7&repeat=false&lines=Software+Developer" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=BBH+Bogle&size=56&pause=1200&center=true&vCenter=true&width=1200&height=70&color=111827&repeat=false&lines=Software+Developer" />
+    <img alt="Software Developer"
+      src="https://readme-typing-svg.demolab.com?font=BBH+Bogle&size=56&pause=1200&center=true&vCenter=true&width=1200&height=70&color=111827&repeat=false&lines=Software+Developer" />
+  </picture>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/weslley-s-chaves-789890228" target="_blank" rel="noopener noreferrer">
+    <img height="26" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:weslleysantoschaves@gmail.com">
+    <img height="26" alt="Email" src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Weslley-Chaves" target="_blank" rel="noopener noreferrer">
+    <img height="26" alt="GitHub" src="https://img.shields.io/badge/GitHub-Perfil-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
-## 👋 E aí, dev! Bem-vindo(a) ao meu GitHub — role para baixo e conheça um pouco mais da minha jornada no mundo tech. 👨🏻‍💻
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=F7F7F7&repeat=false&lines=Sobre+mim" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Sobre+mim" />
+  <img alt="Sobre mim"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Sobre+mim" />
+</picture>
 
-🚀 **Sou recém‑formado em ADS**, movido por **aprendizado contínuo**. Todos os dias evoluindo um pouquinho em **Python, SQL, Desenvolvimento Web e Data Science** — cafezinho na mão, código na tela e curiosidade sempre ligada. 💡
+🚀 **Recém-formado em ADS**, com foco em **aprendizado contínuo**. Estudo e pratico diariamente **Python, SQL, Desenvolvimento Web e Data Science**.  
+Tenho experiência como **estagiário em Análise de Requisitos**, atuando no mapeamento de demandas e documentação técnica — isso fortaleceu minha visão sobre como software gera valor em problemas reais.
 
----
-
-## 🛠️ Stacks que estou estudando no momento
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+📌 Documento meus aprendizados em repositórios de estudos e projetos aqui no GitHub, com foco em evolução constante.
 
 ---
 
-## 🔄 Mood atual
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=F7F7F7&repeat=false&lines=Stacks+que+estou+estudando+no+momento" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Stacks+que+estou+estudando+no+momento" />
+  <img alt="Stacks que estou estudando no momento"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Stacks+que+estou+estudando+no+momento" />
+</picture>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=F7F7F7&repeat=false&lines=Mood+atual" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Mood+atual" />
+  <img alt="Mood atual"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Mood+atual" />
+</picture>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding in progress" />
 
 ```python
-while coffee != '':
-    continue
-else:
-    print('Pausa para reabastecer')
-    break
+coffee = "☕"
+
+while coffee:
+    print("Codando...")  # foco total
+    coffee = ""          # acabou o combustível 😅
+
+print("Pausa para reabastecer ☕")
 ```
 
 ---
 
-## 🎯 O que estou buscando
-
-Um lugar onde eu possa transformar **dados em insights**, **ideias em aplicações** e **aprendizado em valor real**. Estou disposto a participar de **projetos práticos** e de **comunidades de aprendizado** para crescer junto com a equipe.
-
----
-
-## 📚 Minha Formação
-
-* **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** – UNOPAR, 2023‑2025 *(concluído)*
-
----
-
-## 🎮 Minhas contribuições - Pac‑Man Commit Game
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Weslley-Chaves/Weslley-Chaves/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Weslley-Chaves/Weslley-Chaves/output/pacman-contribution-graph.svg" />
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/Weslley-Chaves/Weslley-Chaves/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=F7F7F7&repeat=false&lines=O+que+estou+buscando" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=O+que+estou+buscando" />
+  <img alt="O que estou buscando"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=O+que+estou+buscando" />
 </picture>
 
-<p align="center"><sub>_Gerado diariamente por <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a> via GitHub Actions_</sub></p>
+Um ambiente onde eu possa transformar **aprendizado em valor real**, evoluir tecnicamente e colaborar em **projetos práticos** que gerem impacto.
 
 ---
 
-<p align="center">Feito com 💻 e ☕ por <strong>Weslley S. Chaves</strong></p>
-<p align="center"><em>Nunca se esqueça: "A melhor maneira de prever o futuro é criá-lo."</em></p>
-<p align="center">Valeu pela visita! Siga codando, siga curioso. Qualquer coisa, me chama no LinkedIn e bora compartilhar conhecimento. 🆙</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=F7F7F7&repeat=false&lines=Minha+Forma%C3%A7%C3%A3o" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Minha+Forma%C3%A7%C3%A3o" />
+  <img alt="Minha Formação"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Minha+Forma%C3%A7%C3%A3o" />
+</picture>
 
+- **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** — UNOPAR, 2023–2025 *(concluído)*
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=F7F7F7&repeat=false&lines=Consist%C3%AAncia+no+GitHub" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Consist%C3%AAncia+no+GitHub" />
+  <img alt="Consistência no GitHub"
+    src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&center=false&vCenter=true&width=1200&height=56&color=111827&repeat=false&lines=Consist%C3%AAncia+no+GitHub" />
+</picture>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Weslley-Chaves/Weslley-Chaves/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Weslley-Chaves/Weslley-Chaves/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/Weslley-Chaves/Weslley-Chaves/output/pacman-contribution-graph.svg" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=Weslley-Chaves&theme=dark&hide_border=true&border_radius=12&locale=pt_BR&mode=weekly" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=Weslley-Chaves&theme=github-light&hide_border=true&border_radius=12&locale=pt_BR&mode=weekly" />
+    <img alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=Weslley-Chaves&theme=github-light&hide_border=true&border_radius=12&locale=pt_BR&mode=weekly" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Jersey+10&size=72&duration=1&pause=350&center=true&vCenter=true&width=520&height=90&color=F7F7F7&repeat=true&lines=prop%C3%B3sito;prioridade;a%C3%A7%C3%A3o" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Jersey+10&size=72&duration=1&pause=350&center=true&vCenter=true&width=520&height=90&color=111827&repeat=true&lines=prop%C3%B3sito;prioridade;a%C3%A7%C3%A3o" />
+    <img alt="Propósito Prioridade Ação"
+      src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=72&duration=1&pause=350&center=true&vCenter=true&width=520&height=90&color=111827&repeat=true&lines=prop%C3%B3sito;prioridade;a%C3%A7%C3%A3o" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=22&pause=1200&center=true&vCenter=true&width=980&height=44&color=F7F7F7&repeat=false&lines=Quer+conversar+sobre+oportunidades+ou+projetos%3F+Me+chama+no+LinkedIn+%F0%9F%91%8D" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Google+Sans&size=22&pause=1200&center=true&vCenter=true&width=980&height=44&color=111827&repeat=false&lines=Quer+conversar+sobre+oportunidades+ou+projetos%3F+Me+chama+no+LinkedIn+%F0%9F%91%8D" />
+    <img alt="CTA final"
+      src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=22&pause=1200&center=true&vCenter=true&width=980&height=44&color=111827&repeat=false&lines=Quer+conversar+sobre+oportunidades+ou+projetos%3F+Me+chama+no+LinkedIn+%F0%9F%91%8D" />
+  </picture>
+</div>
+
+<p align="center"><sub>Feito com 💻 e ☕ por <strong>Weslley S. Chaves</strong></sub></p>
