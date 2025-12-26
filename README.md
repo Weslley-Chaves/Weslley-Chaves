@@ -55,7 +55,7 @@
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/weslley-s-chaves-789890228" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/weslley-chaves-789890228" target="_blank" rel="noopener noreferrer">
     <img height="26" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:weslleysantoschaves@gmail.com">
